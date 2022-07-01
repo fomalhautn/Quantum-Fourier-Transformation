@@ -20,9 +20,9 @@
 <h2 style="text-align: center;"><a href="https://qt.eu/">European Union Quantum Flagship /</a> <a href="https://qtom.qtedu.eu/">QTEdu Quantum Technology Open Master</a></h2>
 <h2 style="text-align: center;"><a href="https://www.uni-jena.de/en">Friedrich Schiller University Jena</a></h2>
 <h3><em>Quantum Fourier Transformation</em></h3>
-<p>Quantum Fourier Transformation (QFT) can be used for signal interpolation and smoothing.</p>
-<p>The discrete exponentiation naturally requires discrete multiplications and these in turn require discrete addition circuits.</p> 
-<p>Discrete additions circuits can be implemented on a Quantum Computer using gates to mimic the classical way of binary addition.</p>
+<p>Quantum Fourier Transformation (QFT) is Equivalent to Far-Field-Scattering.</p>
+<p>This knowledge can be used to verify the relation between the distance of two slits and the fringe separation in the far field.</p>
+<p>Also, QFT can be used for signal interpolation and smoothing.</p> 
 
 <h2>More information is provided via Jupyter Notebook: <a href="https://github.com/fomalhautn/Quantum-Fourier-Transformation/blob/main/Quantum%20Fourier%20Transformation.ipynb"><em>Quantum Fourier Transformation.ipynb</em></a></h2>
 
