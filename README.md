@@ -16,7 +16,7 @@
 
 <div style="text-align: center; margin: 50px">
 
-<h1 style="text-align: center;">Quantum Computation, Summer 2022</h1>
+<h1 style="text-align: center;">Quantum Computing, Summer 2022</h1>
 <h2 style="text-align: center;"><a href="https://qt.eu/">European Union Quantum Flagship /</a> <a href="https://qtom.qtedu.eu/">QTEdu Quantum Technology Open Master</a></h2>
 <h2 style="text-align: center;"><a href="https://www.uni-jena.de/en">Friedrich Schiller University Jena</a></h2>
 <h3><em>Quantum Fourier Transformation</em></h3>
